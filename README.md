@@ -19,11 +19,14 @@ comprometimento em me destacar no campo da Engenharia da Computação.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="python logo"  />
    <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django"  />
    <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html"  />
      <img width="12" />
-   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
+   <img src="https://skillicons.dev/icons?i=python" height="40" alt="py"  />
+    <img width="12" />
+   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="banco"  />
+
 
  </div>
 
