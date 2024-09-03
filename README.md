@@ -1,11 +1,10 @@
  ## Olá, sou Khawan saiba um pouco sobre mim...
 <h1 align="left">Sobre mim</h1>
 
-Atualmente, estou cursando Engenharia da Computação no Instituto Federal de Mato Grosso e simultaneamente atuo como autônomo. 
-Possuo uma sólida base em programação, com habilidades  em linguagens como C, Python e Java. Além disso,  linguagens essenciais para
+Atualmente, estou cursando Engenharia da Computação no Instituto Federal de Mato Grosso trabalho na empresa Sankhya na parte de banco de dados ,  habilidades  em linguagens como C, Python, sql e Java. Além disso,  linguagens essenciais para
 o desenvolvimento web, como CSS e HTML. Estou sempre em busca de aprimorar minhas habilidades e 
 conhecimentos, explorando novas oportunidades na área. Meu 
-comprometimento em me destacar no campo da Engenharia da Computação.
+comprometimento se da em me destacar no campo da Engenharia da Computação.
 
 
 
