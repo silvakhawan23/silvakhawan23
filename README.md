@@ -1,7 +1,7 @@
  ## Olá, sou Khawan saiba um pouco sobre mim...
 <h1 align="left">Sobre mim</h1>
 
-Atualmente, estou cursando Engenharia da Computação no Instituto Federal de Mato Grosso trabalho na empresa Sankhya na parte de banco de dados ,  habilidades  em linguagens como C, Python, sql e Java. Além disso,  linguagens essenciais para
+Atualmente, trabalho como desenvolverdor na Sankhya com o foco em java para a construção de integração e extensão e botõees de ação,  estou cursando Engenharia da Computação no Instituto Federal de Mato Grosso trabalho na empresa Sankhya na parte de banco de dados ,  habilidades  em linguagens como C, Python, sql e Java. Além disso,  linguagens essenciais para
 o desenvolvimento web, como CSS e HTML. Estou sempre em busca de aprimorar minhas habilidades e 
 conhecimentos, explorando novas oportunidades na área. Meu 
 comprometimento se da em me destacar no campo da Engenharia da Computação.
